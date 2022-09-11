@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 chown julien hello; chmod 753 hello
